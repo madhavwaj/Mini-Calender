@@ -1,7 +1,7 @@
 # Mini-Calender
 
 
-###🗓️ Presenting my Mini Calendar Project with JavaScript Integration! 📅
+### 🗓️ Presenting my Mini Calendar Project with JavaScript Integration! 📅
 
 Check out this adorable mini calendar I created using HTML, CSS, and JavaScript. It's a simple yet stylish way to display the date dynamically.
 
